@@ -3,6 +3,7 @@
 .project
 .settings
 target/
+/data/h2/
 .idea
 .vscode
 .DS_Store
